@@ -1,0 +1,1 @@
+cd C:\Users\TECH DEALS\AppData\Local\Programs\Python\Python38\Scripts
